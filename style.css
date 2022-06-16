@@ -1,0 +1,16 @@
+#header{
+    background-color: lightcoral;
+    font-family: 'Neonderthaw', cursive;
+    color: blue;
+}
+
+.main_div{
+    background-color: burlywood;
+    color: black;
+}
+
+.footer {
+    font-family: 'Indie Flower', cursive;
+    color:chartreuse;
+    font-size: 30px;
+}
