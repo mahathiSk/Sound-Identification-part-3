@@ -29,7 +29,7 @@ function gotResult(error, results) {
         document.getElementById("voice").style.color = "rgb("+random_number_r+","+random_number_g+","+random_number_b+")";
         document.getElementById("voice").style.fontFamily = 'Courier New'+","+'Courier'+","+'monospace';
 
-        img = document.getElementById("image");
+        img = document.getElementById("animal_image");
 
         if(results[0].label == "Dog sound"){
             img.src = "funny-animals-dog.gif";
